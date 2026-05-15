@@ -54,10 +54,5 @@ Future Improvements
 - Ratings and reviews
 - Chat support
 
- Author
-
-Thanushree MK
-
-GitHub:
-https://github.com/thanushreemk164-code
+ 
 
