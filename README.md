@@ -36,7 +36,7 @@ settings.gradle.kts
 How to Run the Project
 
 1. Clone the repository
-git clone https:
+git clone https:https://github.com/diyahorapeti/Mane-Kelsa.git
 2. Open the project in Android Studio
 
 3. Sync Gradle files
